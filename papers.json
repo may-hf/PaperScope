@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14",
+  "updated": "2026-11-15",
   "papers": [
     {
       "id": "10.1021/jacs.6c06380",
@@ -333,7 +333,135 @@
       "novelty": "Truchetや菱形タイルの平面幾何を、接着剤なしでも拘束される3次元ブロック集合の設計規則へ変換した点が特徴。対称性・タイル配置・立体構造の関係を体系化しており、数学と造形・材料設計を結ぶ査読付き研究。",
       "url": "https://doi.org/10.1080/17513472.2026.2733367",
       "source": "curated"
+    },
+    {
+      "id": "10.51699/1g0erp28",
+      "title": "First-Principles Investigation of Oxygen Vacancy Defects and Strain Engineering on the Electronic Structure and Magnetic Ordering in Perovskite SrTiO3: A DFT+U Framework",
+      "journal": "Central Asian Journal of Theoretical and Applied Science",
+      "date": "2026-10-12",
+      "added": "2026-11-15",
+      "category": "Chemistry",
+      "tags": [
+        "Perovskite",
+        "Magnetism",
+        "Defects"
+      ],
+      "firstAuthor": "Ali H. Mohammed",
+      "firstAffiliation": "University of Tikrit",
+      "corresponding": "未確認（出版社ページで要確認）",
+      "summary": "自動収集した論文候補です。研究内容・要旨は原論文で確認してください。",
+      "novelty": "新規性は未評価です。自動収集では査読・本文照合やAI要約を行っていません。",
+      "url": "https://doi.org/10.51699/1g0erp28",
+      "source": "auto"
+    },
+    {
+      "id": "10.1016/j.jssc.2026.126405",
+      "title": "Ammonium ion-directed, transition-metal-free solid-state photooxidation of iodide: Proposed hydrogen-bond-mediated hole trapping in a crystalline alkali-halide matrix",
+      "journal": "Journal of Solid State Chemistry",
+      "date": "2026-11-01",
+      "added": "2026-11-15",
+      "category": "Chemistry",
+      "tags": [
+        "Chemistry"
+      ],
+      "firstAuthor": "Ahsan Habib",
+      "firstAffiliation": "University of Dhaka",
+      "corresponding": "未確認（出版社ページで要確認）",
+      "summary": "自動収集した論文候補です。研究内容・要旨は原論文で確認してください。",
+      "novelty": "新規性は未評価です。自動収集では査読・本文照合やAI要約を行っていません。",
+      "url": "https://doi.org/10.1016/j.jssc.2026.126405",
+      "source": "auto"
+    },
+    {
+      "id": "10.1021/acs.inorgchem.6c04164",
+      "title": "Noncentrosymmetric Crystal Structure of the Oxyfluoride PbBiTi4O10F Driven by Cooperative Pb/Bi and O/F Ordering",
+      "journal": "Inorganic Chemistry",
+      "date": "2026-11-13",
+      "added": "2026-11-15",
+      "category": "Chemistry",
+      "tags": [
+        "Crystal Structure"
+      ],
+      "firstAuthor": "Kengo Oka",
+      "firstAffiliation": "Kindai University",
+      "corresponding": "未確認（出版社ページで要確認）",
+      "summary": "自動収集した論文候補です。研究内容・要旨は原論文で確認してください。",
+      "novelty": "新規性は未評価です。自動収集では査読・本文照合やAI要約を行っていません。",
+      "url": "https://doi.org/10.1021/acs.inorgchem.6c04164",
+      "source": "auto"
+    },
+    {
+      "id": "10.1021/jacs.6c12151",
+      "title": "From Chemical Complexity to Magnetic Tunability in High-Entropy Spinel Oxides",
+      "journal": "Journal of the American Chemical Society",
+      "date": "2026-11-13",
+      "added": "2026-11-15",
+      "category": "Chemistry",
+      "tags": [
+        "Chemistry"
+      ],
+      "firstAuthor": "Neha Sharma",
+      "firstAffiliation": "Thapar Institute of Engineering & Technology",
+      "corresponding": "未確認（出版社ページで要確認）",
+      "summary": "自動収集した論文候補です。研究内容・要旨は原論文で確認してください。",
+      "novelty": "新規性は未評価です。自動収集では査読・本文照合やAI要約を行っていません。",
+      "url": "https://doi.org/10.1021/jacs.6c12151",
+      "source": "auto"
+    },
+    {
+      "id": "10.1021/jacs.6c12079",
+      "title": "Synthesis and Crystal Structure of Bulk Methanetetrol C(OH)4",
+      "journal": "Journal of the American Chemical Society",
+      "date": "2026-11-10",
+      "added": "2026-11-15",
+      "category": "Chemistry",
+      "tags": [
+        "Crystal Structure"
+      ],
+      "firstAuthor": "Dominik Spahr",
+      "firstAffiliation": "Stony Brook University",
+      "corresponding": "未確認（出版社ページで要確認）",
+      "summary": "自動収集した論文候補です。研究内容・要旨は原論文で確認してください。",
+      "novelty": "新規性は未評価です。自動収集では査読・本文照合やAI要約を行っていません。",
+      "url": "https://doi.org/10.1021/jacs.6c12079",
+      "source": "auto"
+    },
+    {
+      "id": "10.1038/s41589-026-02372-1",
+      "title": "A conserved urate oxidase helix-tiling assembly promotes metabolic robustness in peroxisomes",
+      "journal": "Nature Chemical Biology",
+      "date": "2026-11-10",
+      "added": "2026-11-15",
+      "category": "Geometry",
+      "tags": [
+        "Tiling"
+      ],
+      "firstAuthor": "Junhan Yang",
+      "firstAffiliation": "Peking University, Center for Life Sciences, State Key Laboratory of Membrane Biology",
+      "corresponding": "未確認（出版社ページで要確認）",
+      "summary": "自動収集した論文候補です。研究内容・要旨は原論文で確認してください。",
+      "novelty": "新規性は未評価です。自動収集では査読・本文照合やAI要約を行っていません。",
+      "url": "https://doi.org/10.1038/s41589-026-02372-1",
+      "source": "auto"
+    },
+    {
+      "id": "10.1080/17459737.2026.2737640",
+      "title": "Periodic and aperiodic tessellations as compositional frameworks",
+      "journal": "Journal of Mathematics and Music",
+      "date": "2026-11-09",
+      "added": "2026-11-15",
+      "category": "Geometry",
+      "tags": [
+        "Tiling"
+      ],
+      "firstAuthor": "Maria Luisa Acuña Fuentes",
+      "firstAffiliation": "Université Paris 8",
+      "corresponding": "未確認（出版社ページで要確認）",
+      "summary": "自動収集した論文候補です。研究内容・要旨は原論文で確認してください。",
+      "novelty": "新規性は未評価です。自動収集では査読・本文照合やAI要約を行っていません。",
+      "url": "https://doi.org/10.1080/17459737.2026.2737640",
+      "source": "auto"
     }
   ],
-  "notes": "Unreviewed metadata candidates; corresponding authors and summaries not verified. Curated on 2026-11-14: retained six selected papers; prior version recoverable in Git history. Curated manually on 2026-11-14: appended 5 Chemistry and 2 Geometry papers after publisher/arXiv metadata verification; original entries retained. The new arXiv paper is a non-peer-reviewed preprint."
+  "notes": "Unreviewed metadata candidates; corresponding authors and summaries not verified."
 }
