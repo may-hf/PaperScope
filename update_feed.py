@@ -5,10 +5,19 @@ ROOT=pathlib.Path(__file__).resolve().parent
 TODAY=dt.datetime.now(dt.timezone(dt.timedelta(hours=9))).date()
 LOOKBACK=(TODAY-dt.timedelta(days=35)).isoformat()
 QUERIES={
- 'Chemistry':['oxyhydride topochemical','perovskite hydride','mixed anion perovskite','topochemical reduction oxide','oxynitride perovskite'],
+ 'Chemistry':[
+  'solid state chemistry new compounds','inorganic crystal structure synthesis',
+  'solid state phase transition','cation ordering anion ordering',
+  'topochemical synthesis mixed anion','oxyhydride oxynitride',
+  'perovskite oxide magnetic','strongly correlated materials metal insulator transition',
+  'unconventional superconductivity materials','ferroelectric oxide synthesis',
+  'solid electrolyte ionic conduction','epitaxial oxide thin film interface',
+  'high pressure synthesis inorganic','defect chemistry oxide',
+  'novel nitride sulfide halide materials'
+ ],
  'Geometry':['aperiodic tiling','polyomino tiling','maze graph','computational geometry tessellation','space filling tiling']
 }
-JOURNALS=('nature','science','journal of the american chemical society','chemistry of materials','inorganic chemistry','acs applied materials','jacs au','angewandte','chemical science')
+JOURNALS=('nature','science','journal of the american chemical society','chemistry of materials','inorganic chemistry','acs applied materials','jacs au','angewandte','chemical science','advanced materials','physical review materials','journal of solid state chemistry','solid state sciences')
 
 def fetch(query):
     params=urllib.parse.urlencode({'search':query,'filter':f'from_publication_date:{LOOKBACK},type:article','per-page':35,'select':'id,doi,title,publication_date,primary_location,authorships,abstract_inverted_index,open_access'})
@@ -32,7 +41,7 @@ def make(w,category):
     pub=w.get('publication_date') or TODAY.isoformat()
     url=doi or ((w.get('primary_location') or {}).get('landing_page_url')) or w['id']
     abstract=abstract_text(w.get('abstract_inverted_index'))
-    tags=[t for t in (['Oxyhydride','Topochemical','Perovskite','Oxynitride','Hydride','Vanadium','Chromium','Cobalt'] if category=='Chemistry' else ['Tiling','Maze','Polyomino','Graph Theory','Geometry']) if re.search(t.replace('Oxyhydride','oxyhydride').replace('Topochemical','topochemical'),title+' '+abstract,re.I)]
+    tags=[t for t in (['Oxyhydride','Topochemical','Perovskite','Oxynitride','Hydride','Vanadium','Chromium','Cobalt','Magnetism','Superconductivity','Ferroelectric','Phase Transition','Solid Electrolyte','Thin Film','Crystal Structure','Defects','Nitride','Sulfide'] if category=='Chemistry' else ['Tiling','Maze','Polyomino','Graph Theory','Geometry']) if re.search(t.replace('Oxyhydride','oxyhydride').replace('Topochemical','topochemical'),title+' '+abstract,re.I)]
     return {'id':id,'title':title,'journal':source,'date':pub,'added':TODAY.isoformat(),'category':category,'tags':tags or [category],'firstAuthor':first.get('author',{}).get('display_name') or '未確認','firstAffiliation':aff,'corresponding':'未確認（出版社ページで要確認）','summary':'自動収集した論文候補です。研究内容・要旨は原論文で確認してください。','novelty':'新規性は未評価です。自動収集では査読・本文照合やAI要約を行っていません。','url':url,'source':'auto'}
 
 def main():
@@ -50,11 +59,16 @@ def main():
                 p=make(w,category);id=p['id'].lower()
                 if id in byid:continue
                 text=(p['title']+' '+p['journal']).lower()
-                score=(sum(x in text for x in ('oxyhydride','hydride','topochemical','mixed anion','oxynitride','tiling','polyomino','maze'))*5+
-                    (5 if category=='Chemistry' and any(j in p['journal'].lower() for j in JOURNALS) else 0)+
-                    (TODAY-dt.date.fromisoformat(p['date'])).days*-0.05)
-                if category=='Geometry' and 'tiling' not in text and 'polyomino' not in text and 'maze' not in text and 'tessellation' not in text:continue
-                if category=='Chemistry' and not any(k in text for k in ('hydride','oxide','perovskite','anion','reduction','vanadium','chromium','cobalt')):continue
+                focus=('oxyhydride','hydride','topochemical','mixed anion','oxynitride',
+                       'crystal structure','solid state','solid-state','phase transition',
+                       'magnetic','magnetism','superconduct','ferroelectric','ionic conduction',
+                       'perovskite','thin film','epitaxial','high pressure','defect','ordering',
+                       'nitride','sulfide','halide','oxide','synthesis')
+                score=(sum(k in text for k in focus)*2+
+                    (7 if category=='Chemistry' and any(j in p['journal'].lower() for j in JOURNALS) else 0)+
+                    (TODAY-dt.date.fromisoformat(p['date'])).days*-0.08)
+                if category=='Geometry' and not any(k in text for k in ('tiling','polyomino','maze','tessellation')):continue
+                if category=='Chemistry' and not any(k in text for k in focus):continue
                 candidates[id]=(score,p)
         results[category]=[p for _,p in sorted(candidates.values(),key=lambda v:v[0],reverse=True)[:(5 if category=='Chemistry' else 2)]]
     if failures and not any(results.values()):raise RuntimeError('No usable API responses: '+'; '.join(failures))
