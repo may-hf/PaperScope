@@ -22,26 +22,6 @@
       "source": "auto"
     },
     {
-      "id": "10.1021/acscatal.6c05587",
-      "title": "Nano-CeO2-Derived BaCeO3– x N y H z : A High-Purity Oxynitride-Hydride Support for Enhanced Ammonia Synthesis",
-      "journal": "ACS Catalysis",
-      "date": "2026-10-13",
-      "added": "2026-11-14",
-      "category": "Chemistry",
-      "tags": [
-        "Perovskite",
-        "Oxynitride",
-        "Hydride"
-      ],
-      "firstAuthor": "Kaito Niita",
-      "firstAffiliation": "Institute of Science Tokyo",
-      "corresponding": "未確認（出版社ページで要確認）",
-      "summary": "自動収集した論文候補です。研究内容・要旨は原論文で確認してください。",
-      "novelty": "新規性は未評価です。自動収集では査読・本文照合やAI要約を行っていません。",
-      "url": "https://doi.org/10.1021/acscatal.6c05587",
-      "source": "auto"
-    },
-    {
       "id": "10.1021/acs.inorgchem.6c03989",
       "title": "Polar Ruddlesden–Popper Rare-Earth Aluminum Oxynitrides with Partial Anion Order",
       "journal": "Inorganic Chemistry",
@@ -58,118 +38,6 @@
       "summary": "自動収集した論文候補です。研究内容・要旨は原論文で確認してください。",
       "novelty": "新規性は未評価です。自動収集では査読・本文照合やAI要約を行っていません。",
       "url": "https://doi.org/10.1021/acs.inorgchem.6c03989",
-      "source": "auto"
-    },
-    {
-      "id": "10.1007/s11581-026-07636-3",
-      "title": "First-principles insights into vacancy-ordered double perovskite hydrides A2BH6 (A = Li, Na; B = Ge, Sn) for solid-state hydrogen storage applications",
-      "journal": "Ionics",
-      "date": "2026-11-13",
-      "added": "2026-11-14",
-      "category": "Chemistry",
-      "tags": [
-        "Perovskite",
-        "Hydride"
-      ],
-      "firstAuthor": "Ahmad Ayyaz",
-      "firstAffiliation": "未確認",
-      "corresponding": "未確認（出版社ページで要確認）",
-      "summary": "自動収集した論文候補です。研究内容・要旨は原論文で確認してください。",
-      "novelty": "新規性は未評価です。自動収集では査読・本文照合やAI要約を行っていません。",
-      "url": "https://doi.org/10.1007/s11581-026-07636-3",
-      "source": "auto"
-    },
-    {
-      "id": "10.1016/j.jpowsour.2026.241897",
-      "title": "First-principles and machine learning investigation of structural, electronic, thermoelectric, and hydrogen storage dynamics in cubic Rb2GaInH6 double perovskite hydrides",
-      "journal": "Journal of Power Sources",
-      "date": "2026-11-11",
-      "added": "2026-11-14",
-      "category": "Chemistry",
-      "tags": [
-        "Perovskite",
-        "Hydride"
-      ],
-      "firstAuthor": "Debidatta Behera",
-      "firstAffiliation": "Kalinga Institute of Social Sciences",
-      "corresponding": "未確認（出版社ページで要確認）",
-      "summary": "自動収集した論文候補です。研究内容・要旨は原論文で確認してください。",
-      "novelty": "新規性は未評価です。自動収集では査読・本文照合やAI要約を行っていません。",
-      "url": "https://doi.org/10.1016/j.jpowsour.2026.241897",
-      "source": "auto"
-    },
-    {
-      "id": "10.1038/s41589-026-02372-1",
-      "title": "A conserved urate oxidase helix-tiling assembly promotes metabolic robustness in peroxisomes",
-      "journal": "Nature Chemical Biology",
-      "date": "2026-11-10",
-      "added": "2026-11-14",
-      "category": "Geometry",
-      "tags": [
-        "Tiling"
-      ],
-      "firstAuthor": "Junhan Yang",
-      "firstAffiliation": "Peking University, Center for Life Sciences, State Key Laboratory of Membrane Biology",
-      "corresponding": "未確認（出版社ページで要確認）",
-      "summary": "自動収集した論文候補です。研究内容・要旨は原論文で確認してください。",
-      "novelty": "新規性は未評価です。自動収集では査読・本文照合やAI要約を行っていません。",
-      "url": "https://doi.org/10.1038/s41589-026-02372-1",
-      "source": "auto"
-    },
-    {
-      "id": "10.62441/actainnovations.vi.2469",
-      "title": "EVALUATION OF ANXIOLYTIC EFFECT OF CORIANDRUM SATIVUM IN THE ELEVATED PLUS-MAZE",
-      "journal": "Acta Innovations",
-      "date": "2026-10-26",
-      "added": "2026-11-14",
-      "category": "Geometry",
-      "tags": [
-        "Maze"
-      ],
-      "firstAuthor": "Rahul A Bhosale",
-      "firstAffiliation": "NKP Salve Institute of Medical Sciences and Lata Mangeshkar Hospital",
-      "corresponding": "未確認（出版社ページで要確認）",
-      "summary": "自動収集した論文候補です。研究内容・要旨は原論文で確認してください。",
-      "novelty": "新規性は未評価です。自動収集では査読・本文照合やAI要約を行っていません。",
-      "url": "https://doi.org/10.62441/actainnovations.vi.2469",
-      "source": "auto"
-    },
-    {
-      "id": "10.51699/1g0erp28",
-      "title": "First-Principles Investigation of Oxygen Vacancy Defects and Strain Engineering on the Electronic Structure and Magnetic Ordering in Perovskite SrTiO3: A DFT+U Framework",
-      "journal": "Central Asian Journal of Theoretical and Applied Science",
-      "date": "2026-10-12",
-      "added": "2026-11-14",
-      "category": "Chemistry",
-      "tags": [
-        "Perovskite",
-        "Magnetism",
-        "Defects"
-      ],
-      "firstAuthor": "Ali H. Mohammed",
-      "firstAffiliation": "University of Tikrit",
-      "corresponding": "未確認（出版社ページで要確認）",
-      "summary": "自動収集した論文候補です。研究内容・要旨は原論文で確認してください。",
-      "novelty": "新規性は未評価です。自動収集では査読・本文照合やAI要約を行っていません。",
-      "url": "https://doi.org/10.51699/1g0erp28",
-      "source": "auto"
-    },
-    {
-      "id": "10.1016/j.jssc.2026.126405",
-      "title": "Ammonium ion-directed, transition-metal-free solid-state photooxidation of iodide: Proposed hydrogen-bond-mediated hole trapping in a crystalline alkali-halide matrix",
-      "journal": "Journal of Solid State Chemistry",
-      "date": "2026-11-01",
-      "added": "2026-11-14",
-      "category": "Chemistry",
-      "tags": [
-        "Chemistry"
-      ],
-      "firstAuthor": "Ahsan Habib",
-      "firstAffiliation": "University of Dhaka",
-      "corresponding": "未確認（出版社ページで要確認）",
-      "summary": "自動収集した論文候補です。研究内容・要旨は原論文で確認してください。",
-      "novelty": "新規性は未評価です。自動収集では査読・本文照合やAI要約を行っていません。",
-      "url": "https://doi.org/10.1016/j.jssc.2026.126405",
       "source": "auto"
     },
     {
@@ -192,24 +60,6 @@
       "source": "auto"
     },
     {
-      "id": "10.1021/jacs.6c12079",
-      "title": "Synthesis and Crystal Structure of Bulk Methanetetrol C(OH)4",
-      "journal": "Journal of the American Chemical Society",
-      "date": "2026-11-10",
-      "added": "2026-11-14",
-      "category": "Chemistry",
-      "tags": [
-        "Crystal Structure"
-      ],
-      "firstAuthor": "Dominik Spahr",
-      "firstAffiliation": "Stony Brook University",
-      "corresponding": "未確認（出版社ページで要確認）",
-      "summary": "自動収集した論文候補です。研究内容・要旨は原論文で確認してください。",
-      "novelty": "新規性は未評価です。自動収集では査読・本文照合やAI要約を行っていません。",
-      "url": "https://doi.org/10.1021/jacs.6c12079",
-      "source": "auto"
-    },
-    {
       "id": "10.1080/14686996.2026.2756756",
       "title": "Influence of epitaxial strain on structural relaxation in crystalline membranes of fluorite oxides",
       "journal": "Science and Technology of Advanced Materials",
@@ -225,42 +75,6 @@
       "summary": "自動収集した論文候補です。研究内容・要旨は原論文で確認してください。",
       "novelty": "新規性は未評価です。自動収集では査読・本文照合やAI要約を行っていません。",
       "url": "https://doi.org/10.1080/14686996.2026.2756756",
-      "source": "auto"
-    },
-    {
-      "id": "10.1080/17459737.2026.2737640",
-      "title": "Periodic and aperiodic tessellations as compositional frameworks",
-      "journal": "Journal of Mathematics and Music",
-      "date": "2026-11-09",
-      "added": "2026-11-14",
-      "category": "Geometry",
-      "tags": [
-        "Tiling"
-      ],
-      "firstAuthor": "Maria Luisa Acuña Fuentes",
-      "firstAffiliation": "Université Paris 8",
-      "corresponding": "未確認（出版社ページで要確認）",
-      "summary": "自動収集した論文候補です。研究内容・要旨は原論文で確認してください。",
-      "novelty": "新規性は未評価です。自動収集では査読・本文照合やAI要約を行っていません。",
-      "url": "https://doi.org/10.1080/17459737.2026.2737640",
-      "source": "auto"
-    },
-    {
-      "id": "10.1145/3842505",
-      "title": "Neural Centroidal Voronoi Tessellations",
-      "journal": "ACM Transactions on Graphics",
-      "date": "2026-11-09",
-      "added": "2026-11-14",
-      "category": "Geometry",
-      "tags": [
-        "Geometry"
-      ],
-      "firstAuthor": "Jiacheng Xu",
-      "firstAffiliation": "Peking University",
-      "corresponding": "未確認（出版社ページで要確認）",
-      "summary": "自動収集した論文候補です。研究内容・要旨は原論文で確認してください。",
-      "novelty": "新規性は未評価です。自動収集では査読・本文照合やAI要約を行っていません。",
-      "url": "https://doi.org/10.1145/3842505",
       "source": "auto"
     },
     {
@@ -304,5 +118,5 @@
       "source": "enriched"
     }
   ],
-  "notes": "Unreviewed metadata candidates; corresponding authors and summaries not verified."
+  "notes": "Unreviewed metadata candidates; corresponding authors and summaries not verified. Curated on 2026-11-14: retained six selected papers; prior version recoverable in Git history."
 }
