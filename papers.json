@@ -461,6 +461,48 @@
       "novelty": "新規性は未評価です。自動収集では査読・本文照合やAI要約を行っていません。",
       "url": "https://doi.org/10.1080/17459737.2026.2737640",
       "source": "auto"
+    },
+    {
+      "id": "10.1021/acs.inorgchem.5c06049",
+      "title": "High-Pressure Synthesis and Structural Instability of A-Site-Ordered Quadruple Perovskite LaHg3Ti4O12+δ",
+      "journal": "Inorganic Chemistry",
+      "date": "2026-03-04",
+      "added": "2026-11-15",
+      "category": "Chemistry",
+      "tags": [
+        "Perovskite",
+        "High Pressure",
+        "Crystal Structure",
+        "Lone Pair"
+      ],
+      "firstAuthor": "Bowen Zhang",
+      "firstAffiliation": "Center for High-Pressure Science and Technology Advanced Research, Beijing, China",
+      "corresponding": "Runze Yu (Center for High-Pressure Science and Technology Advanced Research); Jianfa Zhao (Institute of Physics, Chinese Academy of Sciences)",
+      "summary": "PbHg₃Ti₄O₁₂のPb²⁺をLa³⁺に置き換える設計により、Aサイト秩序型四重ペロブスカイトLaHg₃Ti₄O₁₂₊δを5 GPa・1273 Kで合成した。室温では中心対称Im-3構造をとる。放射光XRD、誘電測定、第一原理計算から約90 Kの構造不安定性を調べ、Ti–O由来のソフトモードとPbの孤立電子対効果の消失が長距離強誘電秩序を妨げる可能性を検討した。",
+      "novelty": "従来のPbHg₃Ti₄O₁₂と比較し、Aサイトの孤立電子対と異価置換による電子状態の変化を通して強誘電性と構造不安定性の関係を考察できる新しい四重ペロブスカイトを実験的に合成した。",
+      "url": "https://doi.org/10.1021/acs.inorgchem.5c06049",
+      "source": "enriched"
+    },
+    {
+      "id": "arxiv:2604.07160",
+      "title": "The Josehedron: A space-filling plesiohedron based on the Fischer-Koch S Triply Periodic Minimal Surface",
+      "journal": "arXiv (cs.CG; preprint)",
+      "date": "2026-04-08",
+      "added": "2026-11-15",
+      "category": "Geometry",
+      "tags": [
+        "Space Filling",
+        "Tiling",
+        "Geometry",
+        "Polyhedra"
+      ],
+      "firstAuthor": "Mathias Bernhard",
+      "firstAffiliation": "Digital Building Technologies, ETH Zurich, Switzerland",
+      "corresponding": "未確認（単著）",
+      "summary": "三重周期極小曲面Fischer–Koch Sの幾何学から、新しい空間充填多面体Josehedronを構成した。12面・12頂点・22辺を持ち、立方単位胞内で12個を6種類の向きに配置して三次元空間を隙間なく充填する。二次元射影にはCairo五角形タイリングとの関係があり、迷路状の空間構造も現れる。",
+      "novelty": "三重周期極小曲面から空間充填多面体を導く構成法を示し、平面タイリング、三次元充填、迷路状の幾何を結び付けた点が特徴。査読前プレプリント。",
+      "url": "https://arxiv.org/abs/2604.07160",
+      "source": "enriched"
     }
   ],
   "notes": "Unreviewed metadata candidates; corresponding authors and summaries not verified."
