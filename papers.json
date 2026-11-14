@@ -262,6 +262,46 @@
       "novelty": "新規性は未評価です。自動収集では査読・本文照合やAI要約を行っていません。",
       "url": "https://doi.org/10.1145/3842505",
       "source": "auto"
+    },
+    {
+      "id": "10.1021/jacs.6c09065",
+      "title": "Decoupling Dissolution from Water Oxidation at Single-Faceted High-Entropy Perovskite Electrodes",
+      "journal": "Journal of the American Chemical Society",
+      "date": "2026-11-04",
+      "added": "2026-11-14",
+      "category": "Chemistry",
+      "tags": [
+        "Perovskite",
+        "High-Entropy Oxide",
+        "Electrochemistry"
+      ],
+      "firstAuthor": "Subhajit Bhunia",
+      "firstAffiliation": "University of Utah, Department of Chemistry",
+      "corresponding": "未確認",
+      "summary": "Cr、Mn、Fe、Co、NiをBサイトに含む高エントロピーペロブスカイト電極について、AFMと走査型電気化学セル顕微鏡（SECCM）を組み合わせ、酸性条件での材料溶解と酸素発生反応の寄与を調べた。局所的な電気化学測定と表面形状変化を対応づけ、溶解ピットの形成を確認した。溶解と酸素発生反応が共通の反応中間体を経由する可能性を示し、Sr置換による溶解挙動の変化も評価した。",
+      "novelty": "見かけの電極電流に含まれる材料溶解の寄与を局所測定から分離し、触媒活性と結晶表面の安定性を区別して評価する方法を示した。",
+      "url": "https://doi.org/10.1021/jacs.6c09065",
+      "source": "enriched"
+    },
+    {
+      "id": "arxiv:2611.16730",
+      "title": "Metric random tilings: exact entropy and the diffraction of counted disorder",
+      "journal": "arXiv",
+      "date": "2026-11-12",
+      "added": "2026-11-14",
+      "category": "Geometry",
+      "tags": [
+        "Tiling",
+        "Geometry",
+        "Entropy"
+      ],
+      "firstAuthor": "Xinyan Wu",
+      "firstAffiliation": "未確認",
+      "corresponding": "未確認",
+      "summary": "タイルの接続関係を固定したまま辺の長さを変化させるmetric random tilingを研究した。Keplerの11種類の一様平面ネットワークについて幾何学的な自由度とエントロピーを調べ、7種類でエントロピーがゼロ、4種類で正となることを示した。辺長の選び方と回折パターンの関係も解析している。",
+      "novelty": "タイルの配置の違いではなく、同じ接続関係の中で辺長が変化する自由度をエントロピーとして定量化した。幾何学的な乱れと回折の関係を結びつけた点も特徴。",
+      "url": "https://arxiv.org/abs/2611.16730",
+      "source": "enriched"
     }
   ],
   "notes": "Unreviewed metadata candidates; corresponding authors and summaries not verified."
