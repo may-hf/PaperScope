@@ -116,7 +116,224 @@
       "novelty": "タイルの配置の違いではなく、同じ接続関係の中で辺長が変化する自由度をエントロピーとして定量化した。幾何学的な乱れと回折の関係を結びつけた点も特徴。",
       "url": "https://arxiv.org/abs/2611.16730",
       "source": "enriched"
+    },
+    {
+      "id": "10.1038/s41467-026-78995-8",
+      "title": "Complex magnetism in a transition metal nitride",
+      "journal": "Nature Communications",
+      "date": "2026-11-02",
+      "added": "2026-11-14",
+      "category": "Chemistry",
+      "tags": [
+        "Nitride",
+        "Magnetism",
+        "Crystal Structure",
+        "High-Pressure Synthesis"
+      ],
+      "firstAuthor": "Dominik Werhahn",
+      "firstAffiliation": "LMU Munich",
+      "authors": [
+        "Dominik Werhahn",
+        "S. Steinberg",
+        "Clemens Ritter",
+        "Felix Drötboom",
+        "J. Paul Attfield",
+        "Simon D. Kloß"
+      ],
+      "corresponding": "Simon D. Kloß",
+      "summary": "高圧合成により、Na₂HgO₂型構造を持つ新しいCo²⁺窒化物Ca₂CoN₂を得た。磁化と中性子回折から、54 K以下で波数k≈0.57の非整合な磁気秩序が現れ、互いに直交する2つの波数ベクトルを持つdouble-kスピン密度波で説明できることを示した。層内の超交換が弱い構造が磁気フラストレーションに寄与すると考察している。",
+      "novelty": "酸化物・ハロゲン化物中心だった体心正方格子のフラストレート磁性研究に、Co²⁺窒化物という実験的モデル系を追加。スピン液体への理論的境界に近い複雑な磁気秩序を中性子回折で明らかにした点が重要（スピン液体そのものの観測ではない）。",
+      "url": "https://doi.org/10.1038/s41467-026-78995-8",
+      "source": "curated"
+    },
+    {
+      "id": "10.1021/acsami.6c12583",
+      "title": "Hydrogen-Mediated, Voltage-Tunable Modulation of the Metal–Insulator Transition in SmNiO3 at Room Temperature",
+      "journal": "ACS Applied Materials & Interfaces",
+      "date": "2026-11-06",
+      "added": "2026-11-14",
+      "category": "Chemistry",
+      "tags": [
+        "Hydrogenation",
+        "Thin Film",
+        "Metal–Insulator Transition",
+        "Nickelate"
+      ],
+      "firstAuthor": "Sundar Kunwar",
+      "firstAffiliation": "Los Alamos National Laboratory",
+      "authors": [
+        "Sundar Kunwar",
+        "Vitalii Starchenko",
+        "Nicholas Cucciniello",
+        "Yun-Yi Pai",
+        "Di Zhang",
+        "Aiping Chen",
+        "Quanxi Jia",
+        "Mathieu Doucet",
+        "James F. Browning",
+        "Timothy Randall Charlton",
+        "Matthew Brahlek",
+        "Gyula Eres",
+        "Phillip T. Sprunger",
+        "Orhan Kizilkaya",
+        "Thomas Zac Ward",
+        "Alessandro R. Mazza"
+      ],
+      "corresponding": "未確認",
+      "summary": "SmNiO₃薄膜とPt/SmNiO₃素子を水素雰囲気に置き、その場XRD・中性子反射率・電気測定で水素挿入と電子状態の変化を追跡した。室温での水素化によりc軸が最大約8%膨張し、抵抗率は3桁以上変化。電圧による双極性抵抗スイッチングは、水素（プロトン）の移動が界面のSchottky障壁を変えることで説明された。",
+      "novelty": "格子膨張を水素取り込みに結びつける中性子反射率の直接的な定量と、その場構造・輸送測定を統合し、水素による金属–絶縁体転移と界面抵抗スイッチングの関係を具体化。水素脱挿入による電子状態制御に直結する。",
+      "url": "https://doi.org/10.1021/acsami.6c12583",
+      "source": "curated"
+    },
+    {
+      "id": "10.1021/acscatal.6c05587",
+      "title": "Nano-CeO2-Derived BaCeO3–xNyHz: A High-Purity Oxynitride-Hydride Support for Enhanced Ammonia Synthesis",
+      "journal": "ACS Catalysis",
+      "date": "2026-10-13",
+      "added": "2026-11-14",
+      "category": "Chemistry",
+      "tags": [
+        "Mixed Anion",
+        "Oxynitride-Hydride",
+        "Perovskite",
+        "Solid-State Synthesis"
+      ],
+      "firstAuthor": "Kaito Niita",
+      "firstAffiliation": "未確認",
+      "authors": [
+        "Kaito Niita",
+        "Masayoshi Miyazaki",
+        "Kazuki Miyashita",
+        "Akira Yoko",
+        "Takaaki Tomai",
+        "Tadafumi Adschiri",
+        "Masato Sasase",
+        "Hitoshi Abe",
+        "Yasuhiro Niwa",
+        "Masaaki Kitano"
+      ],
+      "corresponding": "Akira Yoko; Takaaki Tomai; Tadafumi Adschiri; Masaaki Kitano",
+      "summary": "超臨界水熱法で作製したナノCeO₂とBa(NH₂)₂の固相反応を利用し、N³⁻とH⁻を含む高純度なペロブスカイト型BaCeO₃₋ₓNᵧH𝓏を比較的低温で合成した。Ru担持体は300 °C・0.9 MPaで最大9.0 mmol g⁻¹ h⁻¹のアンモニア合成活性を示し、市販CeO₂由来の対応試料に比べ最大6倍の活性に達した。",
+      "novelty": "前駆体CeO₂のナノサイズ化で固相反応性と混合アニオン相の純度・比表面積を同時に改善。Ru–担体界面でのアニオン空孔形成を促し、触媒性能につなげた点が、単なる組成探索を超えた合成設計上の成果。",
+      "url": "https://doi.org/10.1021/acscatal.6c05587",
+      "source": "curated"
+    },
+    {
+      "id": "10.1038/s41467-026-77848-8",
+      "title": "Vacancy-mediated ultrafast oxide-ion conduction in excess-oxygen Sillén oxybromides",
+      "journal": "Nature Communications",
+      "date": "2026-10-14",
+      "added": "2026-11-14",
+      "category": "Chemistry",
+      "tags": [
+        "Oxyhalide",
+        "Ion Conduction",
+        "Defect Chemistry",
+        "Crystal Structure"
+      ],
+      "firstAuthor": "Yusuke Kanenori",
+      "firstAffiliation": "Institute of Science Tokyo",
+      "authors": [
+        "Yusuke Kanenori",
+        "Hidetoshi Udagawa",
+        "Kei Saito",
+        "Yuichi Sakuda",
+        "Kotaro Fujii",
+        "Maksymilian Kluczny",
+        "Mudasir A. Yatoo",
+        "Kazuhiro Mori",
+        "Tatsumi Ishihara",
+        "Stephen J. Skinner",
+        "Masatomo Yashima"
+      ],
+      "corresponding": "Masatomo Yashima",
+      "summary": "Bi³⁺を含む三重蛍石型スラブとBr⁻層からなるSillén型オキシ臭化物Bi₁.₉Te₀.₁LaO₄.₀₅Brを合成し、乾燥雰囲気・233 °Cで0.01 S cm⁻¹の高い酸化物イオン伝導率を報告した。中性子回折・第一原理計算・分子動力学計算から、組成としては酸素過剰でも主な伝導機構は格子間酸素ではなく酸素空孔を介する移動であることを示した。",
+      "novelty": "『酸素過剰だから格子間酸素伝導』という単純な予想に反し、局所的な酸素空孔による高速移動を特定。低温域での高伝導率と化学的安定性を両立する混合アニオン層状構造の設計指針を示した。",
+      "url": "https://doi.org/10.1038/s41467-026-77848-8",
+      "source": "curated"
+    },
+    {
+      "id": "10.1038/s41467-026-79382-z",
+      "title": "High-pressure synthesis of a polymeric N3H2 solid stabilized by hydrogen bonds",
+      "journal": "Nature Communications",
+      "date": "2026-11-11",
+      "added": "2026-11-14",
+      "category": "Chemistry",
+      "tags": [
+        "New Inorganic Solid",
+        "High-Pressure Synthesis",
+        "Crystal Structure",
+        "Hydrogen"
+      ],
+      "firstAuthor": "Umbertoluca Ranieri",
+      "firstAffiliation": "University of Edinburgh",
+      "authors": [
+        "Umbertoluca Ranieri",
+        "Grégory Geneste",
+        "Gunnar Weck",
+        "Sarah Bolton",
+        "James Spender",
+        "Akun Liang",
+        "Bernhard Massani",
+        "Gaston Garbarino",
+        "Dominique Laniel"
+      ],
+      "corresponding": "Umbertoluca Ranieri; Dominique Laniel",
+      "summary": "N₂–H₂混合物を約134–139 GPaで加熱し、従来は理論的に検討されていた高分子状窒素–水素固体N₃H₂の高圧合成に成功した。放射光単結晶XRD・Raman・DFTから、単結合のN₆環が一次元鎖を形成し、鎖間が水素結合で結ばれる構造を決定。139 GPaでは水素位置も回折から直接解析している。",
+      "novelty": "高分子状窒素–水素化合物を実験的に合成し、超高圧下でH位置まで含めて構造を決めたことが大きい。高エネルギー密度材料の新しい構造化学を提示する一方、常圧回収には成功しておらず、常圧での分解エネルギーは推定値。",
+      "url": "https://doi.org/10.1038/s41467-026-79382-z",
+      "source": "curated"
+    },
+    {
+      "id": "arxiv:2611.13664",
+      "title": "Convex monohedral tilings: a sharp neighbor bound and rigidity in the equality case",
+      "journal": "arXiv (math.MG; preprint, not peer-reviewed)",
+      "date": "2026-11-10",
+      "added": "2026-11-14",
+      "category": "Geometry",
+      "tags": [
+        "Tiling",
+        "Geometry",
+        "Monohedral Tiling",
+        "Mathematical Proof"
+      ],
+      "firstAuthor": "Yahui Yang",
+      "firstAffiliation": "Zhejiang Normal University",
+      "authors": [
+        "Yahui Yang",
+        "Erxiao Wang"
+      ],
+      "corresponding": "未確認",
+      "summary": "同じ凸多角形1種類で平面を敷き詰め、すべてのタイルが同じ数の隣接タイルを持つ場合を研究した。辺同士が完全に一致しない敷き詰めや頂点で接する場合も含め、隣接数Nの上限が21であることを証明したと報告。N=21の等号成立は30°–30°–120°三角形による特定の三角格子細分に限られるとしている。",
+      "novelty": "周期性や辺合わせを仮定しない広い条件で隣接数の鋭い上限と等号成立パターンを同時に与え、既存のタイル張り問題への解答を提示。2026年11月公開のarXivプレプリントであり、査読による検証はまだ受けていない。",
+      "url": "https://arxiv.org/abs/2611.13664",
+      "source": "curated"
+    },
+    {
+      "id": "10.1080/17513472.2026.2733367",
+      "title": "Construction methods for space-filling heterogeneous topological interlocking assemblies",
+      "journal": "Journal of Mathematics and the Arts",
+      "date": "2026-09-27",
+      "added": "2026-11-14",
+      "category": "Geometry",
+      "tags": [
+        "Truchet Tiling",
+        "Geometry",
+        "Tessellation",
+        "Topological Interlocking"
+      ],
+      "firstAuthor": "Meike Weiß",
+      "firstAffiliation": "RWTH Aachen University",
+      "authors": [
+        "Meike Weiß",
+        "Alice C. Niemeyer"
+      ],
+      "corresponding": "Meike Weiß",
+      "summary": "平面の壁紙群の基本領域を変形する方法と半正則タイリングを利用し、複数種類の非凸ブロックが互いに噛み合って平行な2平面の間を埋める立体構造を系統的に作る手法を提案した。一部のブロック配置は一般化Truchetタイルや装飾菱形タイリングに対応し、着色規則を適切に定めればタイリングと立体的噛み合い構造を1対1に対応づけられる。",
+      "novelty": "Truchetや菱形タイルの平面幾何を、接着剤なしでも拘束される3次元ブロック集合の設計規則へ変換した点が特徴。対称性・タイル配置・立体構造の関係を体系化しており、数学と造形・材料設計を結ぶ査読付き研究。",
+      "url": "https://doi.org/10.1080/17513472.2026.2733367",
+      "source": "curated"
     }
   ],
-  "notes": "Unreviewed metadata candidates; corresponding authors and summaries not verified. Curated on 2026-11-14: retained six selected papers; prior version recoverable in Git history."
+  "notes": "Unreviewed metadata candidates; corresponding authors and summaries not verified. Curated on 2026-11-14: retained six selected papers; prior version recoverable in Git history. Curated manually on 2026-11-14: appended 5 Chemistry and 2 Geometry papers after publisher/arXiv metadata verification; original entries retained. The new arXiv paper is a non-peer-reviewed preprint."
 }
