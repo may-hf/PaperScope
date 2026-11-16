@@ -2,6 +2,46 @@
   "updated": "2026-11-15",
   "papers": [
     {
+      "id": "arxiv:2610.32467",
+      "title": "Perfectly aperiodic asymmetric scalable metasurface based on the hat monotile",
+      "journal": "arXiv (preprint)",
+      "date": "2026-10-23",
+      "added": "2026-11-17",
+      "category": "Geometry",
+      "tags": [
+        "Aperiodic Tiling",
+        "Hat Monotile",
+        "Geometric Patterns"
+      ],
+      "firstAuthor": "Yuma Otsuka",
+      "firstAffiliation": "未確認",
+      "corresponding": "未確認",
+      "summary": "非周期的な平面充填を実現するhat monotileを用い、向きと鏡映を含む12種類の配置に異なる共振周波数を割り当てたメタサーフェスを数値設計した。位置ごとに異なる電磁応答を持つ非反復表面を構成する。",
+      "novelty": "単一形状タイルの非周期性を位置ごとに異なる電磁的特徴へ変換した点が特徴。実験実証ではなく数値検証のプレプリント。",
+      "url": "https://arxiv.org/abs/2610.32467",
+      "source": "curated"
+    },
+    {
+      "id": "10.1038/s41467-026-79091-7",
+      "title": "Thermodynamic-guided tailoring of single-atom coordination environments via oxygen chemical potential for efficient C-N coupling",
+      "journal": "Nature Communications",
+      "date": "2026-11-13",
+      "added": "2026-11-17",
+      "category": "Chemistry",
+      "tags": [
+        "Oxygen Chemical Potential",
+        "Coordination Chemistry",
+        "CoWO4"
+      ],
+      "firstAuthor": "Qingna Gong",
+      "firstAffiliation": "Jiangnan University, School of Chemical and Material Engineering",
+      "corresponding": "Wen-Da Zhang (Eastern Institute of Technology, Ningbo); Yao Hu (University of Texas at Austin); Jing Wang (Jiangnan University); Xiaodong Yan (Jiangnan University / Beijing University of Chemical Technology); Zhangxing Chen (Eastern Institute of Technology, Ningbo)",
+      "summary": "CoWO₄担体上のFe単原子について、熱処理時の水素分圧を調整して酸素化学ポテンシャルを制御し、Fe–O配位数が3～6の触媒を系統的に合成した。局所配位環境を熱力学的に設計し、C–N結合形成反応の触媒性能との関係を調べた。",
+      "novelty": "酸素化学ポテンシャルを合成時の操作変数として用い、同じ担体上の単原子Feの配位数を段階的に変える設計法を示した。",
+      "url": "https://doi.org/10.1038/s41467-026-79091-7",
+      "source": "curated"
+    },
+    {
       "id": "10.1021/jacs.6c06380",
       "title": "Hierarchically Structured Anti-Perovskite Oxynitride-Hydride Enabling Ammonia Synthesis via a Cooperative Mechanism Mediated by (N2)− Ions",
       "journal": "Journal of the American Chemical Society",
