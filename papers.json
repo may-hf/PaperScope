@@ -2,6 +2,69 @@
   "updated": "2026-11-15",
   "papers": [
     {
+      "id": "arxiv:2610.00916",
+      "title": "Towards Strongly Aperiodic Monotiles in Higher Dimensions",
+      "journal": "arXiv (preprint)",
+      "date": "2026-10-01",
+      "added": "2026-11-18",
+      "category": "Geometry",
+      "tags": [
+        "Aperiodic Tiling",
+        "Monotile",
+        "Higher Dimensions",
+        "Computational Geometry"
+      ],
+      "firstAuthor": "Dmitry Kamenetsky",
+      "firstAffiliation": "未確認",
+      "corresponding": "未確認",
+      "summary": "3次元の強非周期的monotile Chair44に関係する置換規則をN次元へ拡張する計算的枠組みを提案した。3次元では有限個の接触規則から階層構造の一意性を検証し、4次元では検討した候補が条件を満たさないことを報告した。",
+      "novelty": "高次元の非周期タイルに必要な接触規則を有限探索・証明可能な条件へ落とし込み、3次元の成立と4次元の未解決課題を明確化した。査読前プレプリント。",
+      "url": "https://arxiv.org/abs/2610.00916",
+      "source": "curated"
+    },
+    {
+      "id": "10.1021/acs.chemmater.6c01564",
+      "title": "Trivalent Al Insertion into Layered-Oxide-Derived Perovskite Oxynitrides for Defect-Controlled Dielectric Response",
+      "journal": "Chemistry of Materials",
+      "date": "2026-08-10",
+      "added": "2026-11-18",
+      "category": "Chemistry",
+      "tags": [
+        "Oxynitride",
+        "Perovskite",
+        "Anion Order",
+        "Dielectric"
+      ],
+      "firstAuthor": "Yang Hun Kim",
+      "firstAffiliation": "Department of Chemistry, Yeungnam University",
+      "corresponding": "Young-Il Kim (Department of Chemistry, Yeungnam University)",
+      "summary": "層状Sr₅M₄O₁₅（M=Nb, Ta）とAl₂O₃のアンモノリシスでSrAl₀.₂M₀.₈O₂.₄N₀.₆を合成した。中性子回折では軸方向サイトへのN優先配置が示され、固体NMRでAl周囲とNb周囲の局所環境を評価した。",
+      "novelty": "層状酸化物由来の酸窒化物へのカチオン挿入を三価Alまで拡張し、平均構造のアニオン分布と局所配位の不均一性を併せて示した。",
+      "url": "https://doi.org/10.1021/acs.chemmater.6c01564",
+      "source": "curated"
+    },
+    {
+      "id": "10.1021/acs.chemmater.6c01445",
+      "title": "High-Purity Synthesis of Perovskite Oxynitride LaHfO2N Prepared via a Reduced-Ammonolysis Treatment Using an Active Metal and Amorphous Oxide-Based Precursor",
+      "journal": "Chemistry of Materials",
+      "date": "2026-08-13",
+      "added": "2026-11-18",
+      "category": "Chemistry",
+      "tags": [
+        "Oxynitride",
+        "Perovskite",
+        "Ammonolysis",
+        "MgH2"
+      ],
+      "firstAuthor": "Kazuya Sakinaga",
+      "firstAffiliation": "Okayama University of Science, Graduate School of Science and Engineering / Faculty of Science",
+      "corresponding": "Yasushi Sato (Okayama University of Science)",
+      "summary": "非晶質酸化物前駆体をMgまたはMgH₂などの活性金属系還元剤とともにアンモニア気流下で処理し、Hf–O結合が強く通常のアンモノリシスでは合成困難なペロブスカイト酸窒化物LaHfO₂Nを高純度で合成した。",
+      "novelty": "活性金属を併用する還元アンモノリシスにより、安定なHf酸化物から単相LaHfO₂Nを得る合成経路を示した。",
+      "url": "https://doi.org/10.1021/acs.chemmater.6c01445",
+      "source": "curated"
+    },
+    {
       "id": "arxiv:2610.32467",
       "title": "Perfectly aperiodic asymmetric scalable metasurface based on the hat monotile",
       "journal": "arXiv (preprint)",
