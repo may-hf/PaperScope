@@ -2,6 +2,69 @@
   "updated": "2026-11-15",
   "papers": [
     {
+      "id": "arxiv:2610.12392",
+      "title": "Tiling 3D Space by (Translates of) a Single Polycube is Undecidable",
+      "journal": "arXiv (preprint)",
+      "date": "2026-10-08",
+      "added": "2026-11-20",
+      "category": "Geometry",
+      "tags": [
+        "Tiling",
+        "Polycube",
+        "Undecidability",
+        "Computational Geometry"
+      ],
+      "firstAuthor": "Erik D. Demaine",
+      "firstAffiliation": "Massachusetts Institute of Technology (MIT)",
+      "corresponding": "未確認",
+      "summary": "単一の面連結なポリキューブを平行移動して3次元空間を敷き詰められるかを判定する問題がco-RE完全であり、一般には決定不能であることを証明した。回転・鏡映を許す場合にも拡張した。2026年11月13日改訂の査読前論文。",
+      "novelty": "単一種類の連結立体タイルでも3次元充填可能性の判定が不可能になることを示し、2次元の決定可能性との境界を明らかにした。",
+      "url": "https://arxiv.org/abs/2610.12392",
+      "source": "curated"
+    },
+    {
+      "id": "10.1038/s41467-026-79481-x",
+      "title": "Large electrocaloric effects in unannealed multilayer capacitors of partially ordered lead scandium tantalate",
+      "journal": "Nature Communications",
+      "date": "2026-11-19",
+      "added": "2026-11-20",
+      "category": "Chemistry",
+      "tags": [
+        "Perovskite",
+        "B-site Order",
+        "Electrocaloric",
+        "Ferroelectric"
+      ],
+      "firstAuthor": "Vladimir Farenkov",
+      "firstAffiliation": "Department of Materials Science, University of Cambridge, UK",
+      "corresponding": "未確認",
+      "summary": "PbSc₀.₅Ta₀.₅O₃積層コンデンサで、42日間のアニールを省いたBサイト部分秩序試料（S₁₁₁約0.6）が約3.1 Kの電気熱量温度変化を示した。高秩序試料（S₁₁₁約0.9–0.96）の約4.0 Kと比べ性能低下は比較的小さい。",
+      "novelty": "長時間の秩序化アニールを省略しても、電場誘起強誘電相での寄与により大きな電気熱量応答を維持できることを示した。",
+      "url": "https://doi.org/10.1038/s41467-026-79481-x",
+      "source": "curated"
+    },
+    {
+      "id": "10.1038/s41467-026-79512-7",
+      "title": "Atomically ordered few-layer molybdenum boride MBenes for enhanced electromagnetic response",
+      "journal": "Nature Communications",
+      "date": "2026-11-19",
+      "added": "2026-11-20",
+      "category": "Chemistry",
+      "tags": [
+        "Boride",
+        "MBene",
+        "Molten Salt",
+        "Topochemical Extraction"
+      ],
+      "firstAuthor": "Biao Zhao",
+      "firstAffiliation": "Laboratory of Advanced Materials, School of Microelectronics, Fudan University, Shanghai, China",
+      "corresponding": "Chunlei Wan (Tsinghua University); Daidi Fan (Northwest University); Ruosong Li (Northwest University); Renchao Che (Fudan University)",
+      "summary": "MoAlBを溶融ZnBr₂で処理しAlを選択的に除去して、Mo欠損の少ない原子秩序Mo–B骨格を持つ数層MoB MBeneを合成した。700 °C付近でMo₂AlB₂中間相を抑制し、厚さ2.1 mmで8.7 GHzの有効電磁波吸収帯域を報告した。",
+      "novelty": "溶融塩中の酸化還元を利用した選択的脱Alと層剥離により、欠損・中間相形成を抑えた秩序MoB MBeneの合成経路を示した。",
+      "url": "https://doi.org/10.1038/s41467-026-79512-7",
+      "source": "curated"
+    },
+    {
       "id": "arxiv:2610.00916",
       "title": "Towards Strongly Aperiodic Monotiles in Higher Dimensions",
       "journal": "arXiv (preprint)",
