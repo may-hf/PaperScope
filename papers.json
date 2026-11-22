@@ -2,6 +2,49 @@
   "updated": "2026-11-15",
   "papers": [
     {
+      "id": "10.1103/dzqm-9kwj",
+      "title": "Family of Aperiodic Tilings with Tunable Quantum Geometric Tensor",
+      "journal": "Physical Review Letters",
+      "date": "2025-12-04",
+      "added": "2026-11-22",
+      "category": "Geometry",
+      "tags": [
+        "Aperiodic Tiling",
+        "Hat Monotile",
+        "Quantum Geometry",
+        "Topological Phases"
+      ],
+      "firstAuthor": "Hector Roche Carrasco",
+      "firstAffiliation": "Université Grenoble Alpes, CNRS, Grenoble INP, Institut Néel, France; Donostia International Physics Center, Spain",
+      "corresponding": "Hector Roche Carrasco (Institut Néel; DIPC); Justin Schirmann (Institut Néel); Aurelien Mordret (GEUS); Adolfo G. Grushin (Institut Néel; DIPC; IKERBASQUE)",
+      "summary": "Hatタイルを含む連続変形可能な非周期タイリング族について、形状パラメータの変化が量子幾何テンソルとトポロジカル相に与える影響を理論的に調べた。",
+      "novelty": "非周期性を維持しながら実空間の幾何を連続的に変えることで量子計量やトポロジカル相を制御できることを示した。",
+      "url": "https://doi.org/10.1103/dzqm-9kwj",
+      "source": "curated"
+    },
+    {
+      "id": "10.1038/s41467-026-79576-5",
+      "title": "High-κ bismuth molybdate single-crystalline dielectric for high-temperature two-dimensional transistors",
+      "journal": "Nature Communications",
+      "date": "2026-11-20",
+      "added": "2026-11-22",
+      "category": "Chemistry",
+      "tags": [
+        "Oxide",
+        "Single Crystal",
+        "CVD",
+        "Dielectric",
+        "Bi2MoO6"
+      ],
+      "firstAuthor": "Yujing Qiao",
+      "firstAffiliation": "School of Materials Science and Engineering, Shaanxi Normal University, Xi'an, China",
+      "corresponding": "Lei Zhang (Shaanxi Normal University); Hua Xu (Shaanxi Normal University)",
+      "summary": "BiOCl補助化学気相成長で厚さ制御可能なBi₂MoO₆単結晶ナノシートを合成した。比誘電率約54.2、バンドギャップ約3.85 eV、絶縁破壊電界約3.9 MV/cmを報告し、MoS₂トランジスタのゲート絶縁体として500 Kまでの動作を実証した。",
+      "novelty": "層状Bi₂MoO₆単結晶ナノシートの制御成長法を開拓し、高誘電率と高温安定性を組み合わせたゲート絶縁体機能を示した。",
+      "url": "https://doi.org/10.1038/s41467-026-79576-5",
+      "source": "curated"
+    },
+    {
       "id": "arxiv:2610.12392",
       "title": "Tiling 3D Space by (Translates of) a Single Polycube is Undecidable",
       "journal": "arXiv (preprint)",
