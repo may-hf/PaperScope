@@ -2,6 +2,46 @@
   "updated": "2026-11-15",
   "papers": [
     {
+      "id": "10.1038/s41467-026-79395-8",
+      "title": "Kinetic balancing for near-equilibrium growth of defect-suppressed lead bromide perovskite single crystals",
+      "journal": "Nature Communications",
+      "date": "2026-11-14",
+      "added": "2026-11-24",
+      "category": "Chemistry",
+      "tags": [
+        "Halide Perovskite",
+        "Crystal Growth",
+        "Defects"
+      ],
+      "firstAuthor": "Xiao Zhao",
+      "firstAffiliation": "College of Smart Materials and Future Energy and State Key Laboratory of Molecular Engineering of Polymers, Fudan University, Shanghai, China",
+      "corresponding": "Ziqing Li (Fudan University); Yadong Xu (Northwestern Polytechnical University); Xiaosheng Fang (Fudan University)",
+      "summary": "配位子による結晶化速度制御で臭化鉛ペロブスカイト単結晶を平衡に近い条件で成長させ、非平衡欠陥の取り込みを抑制した。CsPbBr₃では抵抗率5.1×10¹⁰ Ω cm、移動度最大93.95 cm² V⁻¹ s⁻¹を示し、放射線検出器の高電場安定性を改善した。",
+      "novelty": "結晶成長過程の速度論的な不均衡を配位子で緩和することで、後処理によらず欠陥の取り込みを抑える結晶化設計指針を示した。",
+      "url": "https://doi.org/10.1038/s41467-026-79395-8",
+      "source": "curated"
+    },
+    {
+      "id": "10.1007/s40840-026-02208-0",
+      "title": "Resnikoff Silver Numbers and Tilings of the Half-Line (Dedicated to the Memory of H.L. Resnikoff)",
+      "journal": "Bulletin of the Malaysian Mathematical Sciences Society",
+      "date": "2026-10-15",
+      "added": "2026-11-24",
+      "category": "Geometry",
+      "tags": [
+        "Inflation Tiling",
+        "Substitution",
+        "Number Theory"
+      ],
+      "firstAuthor": "Josef F. Dorfmeister",
+      "firstAffiliation": "Fakultät für Mathematik, TU München, Garching, Germany",
+      "corresponding": "Sebastian Walcher (RWTH Aachen University, Germany)",
+      "summary": "黄金数を一般化したResnikoff silver numbersから、半直線上の膨張タイリングを構成する条件を調べた。特定のsilver numbersでは対応する数の集合がタイルの端点となることを証明し、一般の場合には端点差の非集積条件とタイリング成立の関係を示した。",
+      "novelty": "置換反復で構成する1次元自己相似タイリングを、代数的に定義したsilver integersの端点集合として直接特徴づけ、一般化の成立条件を与えた。",
+      "url": "https://doi.org/10.1007/s40840-026-02208-0",
+      "source": "curated"
+    },
+    {
       "id": "10.1103/dzqm-9kwj",
       "title": "Family of Aperiodic Tilings with Tunable Quantum Geometric Tensor",
       "journal": "Physical Review Letters",
