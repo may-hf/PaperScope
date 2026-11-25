@@ -2,6 +2,46 @@
   "updated": "2026-11-15",
   "papers": [
     {
+      "id": "10.1021/acs.inorgchem.6c01803",
+      "title": "Guanidinium Carbonate as a Nitriding Agent for the Synthesis of Perovskite BaTaO₂N",
+      "journal": "Inorganic Chemistry",
+      "date": "2026-06-25",
+      "added": "2026-11-26",
+      "category": "Chemistry",
+      "tags": [
+        "Oxynitride",
+        "Perovskite",
+        "Solid-State Synthesis"
+      ],
+      "firstAuthor": "未確認",
+      "firstAffiliation": "未確認",
+      "corresponding": "未確認",
+      "summary": "炭酸グアニジニウムを窒化剤として用い、アンモニアを使用せず窒素気流下でBaTaO₂Nを合成する研究。",
+      "novelty": "固体窒化剤を用いた従来のアンモノリシスとは異なる合成経路。",
+      "url": "https://doi.org/10.1021/acs.inorgchem.6c01803",
+      "source": "curated"
+    },
+    {
+      "id": "arxiv:2609.19214",
+      "title": "A Strongly Aperiodic Monotile in Three Dimensions",
+      "journal": "arXiv (preprint)",
+      "date": "2026-09-16",
+      "added": "2026-11-26",
+      "category": "Geometry",
+      "tags": [
+        "Aperiodic Tiling",
+        "Monotile",
+        "Space Filling"
+      ],
+      "firstAuthor": "Ioannis Tsiokos",
+      "firstAffiliation": "未確認",
+      "corresponding": "未確認（単著）",
+      "summary": "Chair44と呼ばれる立体単一タイルによる三次元空間の強非周期充填を提案し、計算機による有限列挙と形式証明を用いた証明を報告した査読前論文。",
+      "novelty": "単一立体タイルの形状によって三次元充填の並進周期性を排除する構成を提示した。",
+      "url": "https://arxiv.org/abs/2609.19214",
+      "source": "curated"
+    },
+    {
       "id": "10.1038/s41467-026-79395-8",
       "title": "Kinetic balancing for near-equilibrium growth of defect-suppressed lead bromide perovskite single crystals",
       "journal": "Nature Communications",
