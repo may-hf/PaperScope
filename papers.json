@@ -2,6 +2,66 @@
   "updated": "2026-11-15",
   "papers": [
     {
+      "id": "10.1021/acs.chemmater.5c03181",
+      "title": "Facile Synthesis of Oxyhydrides by Reaction with NaBH₄ in an Open System",
+      "journal": "Chemistry of Materials",
+      "date": "2026-05-13",
+      "category": "Chemistry",
+      "tags": [
+        "Oxyhydride",
+        "Topochemical Reaction",
+        "NMR"
+      ],
+      "firstAuthor": "未確認",
+      "firstAffiliation": "未確認",
+      "corresponding": "未確認",
+      "summary": "NaBH₄を用いたAr気流下の酸水素化物合成と、熱重量分析、固体NMR、EPRによる欠陥評価を報告。",
+      "novelty": "封管を用いない短時間の酸水素化物合成と複数手法による欠陥評価。",
+      "url": "https://doi.org/10.1021/acs.chemmater.5c03181",
+      "added": "2026-11-27",
+      "source": "curated"
+    },
+    {
+      "id": "10.1038/s41586-026-11295-9",
+      "title": "Evidence for p-wave magnetism in electronic band structure of metallic EuSi",
+      "journal": "Nature",
+      "date": "2026-11-18",
+      "category": "Chemistry",
+      "tags": [
+        "Magnetism",
+        "ARPES",
+        "Neutron Diffraction"
+      ],
+      "firstAuthor": "Erjian Cheng (共同筆頭著者6名)",
+      "firstAffiliation": "Max Planck Institute for Chemical Physics of Solids",
+      "corresponding": "Erjian Cheng (MPI CPfS); Yiqing Hao (Oak Ridge National Laboratory); Libor Šmejkal (MPI PKS; MPI CPfS; Czech Academy of Sciences); Junwei Liu (HKUST); Zhongkai Liu (ShanghaiTech University); Claudia Felser (MPI CPfS)",
+      "summary": "EuSiの33.4–62 Kのらせん磁気秩序を中性子回折で確認し、スピン分解ARPESでp波型スピン偏極と整合する運動量依存性を観測した。",
+      "novelty": "化学量論組成の金属で奇パリティ磁性に対応する電子構造の分光学的証拠を示した。",
+      "url": "https://doi.org/10.1038/s41586-026-11295-9",
+      "added": "2026-11-27",
+      "source": "curated"
+    },
+    {
+      "id": "10.1038/s41563-026-02779-0",
+      "title": "Designed broken symmetries facilitate configurational complexity in nematic vortex crystals",
+      "journal": "Nature Materials",
+      "date": "2026-11-18",
+      "category": "Geometry",
+      "tags": [
+        "Symmetry",
+        "Topological Defects",
+        "Pattern Formation"
+      ],
+      "firstAuthor": "Cuiling Meng",
+      "firstAffiliation": "未確認",
+      "corresponding": "未確認",
+      "summary": "ネマティック液晶の渦格子で対称性の破れを設計し、多様な配置状態と欠陥構造を調べた。",
+      "novelty": "対称性と配置自由度を制御して渦結晶の配置複雑性を増大させる設計。",
+      "url": "https://doi.org/10.1038/s41563-026-02779-0",
+      "added": "2026-11-27",
+      "source": "curated"
+    },
+    {
       "id": "10.1021/acs.inorgchem.6c01803",
       "title": "Guanidinium Carbonate as a Nitriding Agent for the Synthesis of Perovskite BaTaO₂N",
       "journal": "Inorganic Chemistry",
